@@ -1,3 +1,3 @@
 # apnacollege-demo
 this is my first git repository.
-auther - Ayesha Reeman
+author - Ayesha Reeman
